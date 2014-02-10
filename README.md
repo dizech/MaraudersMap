@@ -3,9 +3,11 @@ Marauder's Map
 
 Introduction
 ------------
-Marauder’s Map is a fun and interactive way of showing where people are in an area in realtime. When someone enters, a set of footprints appear on the map where they're standing. As they walk around, and go from place to place, the map periodically updates their location. There is no app to install or secret phrase to recite. Anyone with a smartphone or Wi-Fi device can participate in this interactive map.
+Marauder’s Map is a fun and interactive(although experimental!) way of showing where people are in an area in realtime. When someone enters, a set of footprints appear on the map where they're standing. As they walk around, and go from place to place, the map periodically updates their location. There is no app to install or secret phrase to recite. Anyone with a smartphone or Wi-Fi device can participate in this interactive map.
 
+Developed by: Kevin Xu, Andy Li, Juston Li, Jason Brady, Thuc Nguyen, Sam Cagle for a Software Methodologies course at the University of Oregon. 
 
+For the complete documentation of what the Marauder's Map is, as well as the project decisions behind it, please see our wiki page: https://www.assembla.com/spaces/cis422f13_team3/wiki
 
 For an overview of the architecture and the design rationale behind Marauder's Map, take a look at the [software architecture][archdoc].
 
